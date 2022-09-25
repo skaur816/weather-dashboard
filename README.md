@@ -22,3 +22,8 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
+## Deployed Link 
+https://skaur816.github.io/weather-dashboard/
+
+## Screenshot 
+![weatherdash](https://user-images.githubusercontent.com/99299194/192126835-6ec35db5-b8e2-4d05-87e0-2135b8e4800c.jpg)
